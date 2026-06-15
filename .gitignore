@@ -1,10 +1,6 @@
 .env
 blockchain/node_modules
-model/
 frontend/node_modules
 grafp/env
 backend/venv/
 
-# Déploiement
-fly.toml
-Dockerfile
