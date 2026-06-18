@@ -26,7 +26,7 @@ from datetime  import datetime
 logger = logging.getLogger(__name__)
 
 # ── Seuils de sélection du type d'index ──────────────────────────────────────
-INDEX_FLAT_THRESHOLD = 5_000       # < 1 000 œuvres  → recherche exacte
+INDEX_FLAT_THRESHOLD = 1_000       # < 1 000 œuvres  → recherche exacte
 INDEX_IVF_THRESHOLD  = 100_000     # < 100 000 œuvres → IVFFlat
 # ≥ 100 000 œuvres → IVFPQ (compressé)
 

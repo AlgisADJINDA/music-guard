@@ -1,1 +1,145 @@
-{}
+{
+  "256fe2ce52e2ab6062c562ac4641de4180eaba46c5d80b8e75703b8e0fe67e9a": {
+    "title": "blues.00001",
+    "artist": "GTZAN",
+    "ipfs_cid": "QmRef0000",
+    "tx_hash": "0x0",
+    "recipients": [
+      "0x4Fc59D4bb0544F6b885220a0dD899d49eD61B075"
+    ],
+    "shares": [
+      100
+    ],
+    "registered_at": "2026-06-17T07:53:54.881612"
+  },
+  "9625342a233b07bd94621fb25107b5d7ab1ebf5416982289cc4af94d01c4958b": {
+    "title": "classical.00001",
+    "artist": "GTZAN",
+    "ipfs_cid": "QmRef0001",
+    "tx_hash": "0x0",
+    "recipients": [
+      "0x4Fc59D4bb0544F6b885220a0dD899d49eD61B075"
+    ],
+    "shares": [
+      100
+    ],
+    "registered_at": "2026-06-17T07:54:10.208418"
+  },
+  "acd0830d558b4a3c11baf6973f42ce0d9c09bfe12f3741e8eb82a9352d519eb1": {
+    "title": "country.00001",
+    "artist": "GTZAN",
+    "ipfs_cid": "QmRef0002",
+    "tx_hash": "0x0",
+    "recipients": [
+      "0x4Fc59D4bb0544F6b885220a0dD899d49eD61B075"
+    ],
+    "shares": [
+      100
+    ],
+    "registered_at": "2026-06-17T07:54:25.458103"
+  },
+  "3aece2568c87b4de93925633c601b6ec80cd3d15fa7dbf98fab250442b7963c2": {
+    "title": "disco.00008",
+    "artist": "GTZAN",
+    "ipfs_cid": "QmRef0003",
+    "tx_hash": "0x0",
+    "recipients": [
+      "0x4Fc59D4bb0544F6b885220a0dD899d49eD61B075"
+    ],
+    "shares": [
+      100
+    ],
+    "registered_at": "2026-06-17T07:54:40.950788"
+  },
+  "6bcc2c5a519e0020f77482ca81a95fe9b248f3daa72b5f5d52798d4c7cf3bd9f": {
+    "title": "hiphop.00010",
+    "artist": "GTZAN",
+    "ipfs_cid": "QmRef0004",
+    "tx_hash": "0x0",
+    "recipients": [
+      "0x4Fc59D4bb0544F6b885220a0dD899d49eD61B075"
+    ],
+    "shares": [
+      100
+    ],
+    "registered_at": "2026-06-17T07:54:56.528965"
+  },
+  "14ad6ecdb857334fbc6e7497b3b4db7111c25c51d89a75f1af16f124e0b33373": {
+    "title": "jazz.00001",
+    "artist": "GTZAN",
+    "ipfs_cid": "QmRef0005",
+    "tx_hash": "0x0",
+    "recipients": [
+      "0x4Fc59D4bb0544F6b885220a0dD899d49eD61B075"
+    ],
+    "shares": [
+      100
+    ],
+    "registered_at": "2026-06-17T07:55:12.433966"
+  },
+  "2d56712e1b596c5c837c2c7a7f73f4106b37747195f10edcbf0d4a7210c31a04": {
+    "title": "metal.00001",
+    "artist": "GTZAN",
+    "ipfs_cid": "QmRef0006",
+    "tx_hash": "0x0",
+    "recipients": [
+      "0x4Fc59D4bb0544F6b885220a0dD899d49eD61B075"
+    ],
+    "shares": [
+      100
+    ],
+    "registered_at": "2026-06-17T07:55:29.363583"
+  },
+  "c5b44b4ede73708b76ac7483f27582814ae9801248aba9d7d5715d9630ade7d3": {
+    "title": "pop.00001",
+    "artist": "GTZAN",
+    "ipfs_cid": "QmRef0007",
+    "tx_hash": "0x0",
+    "recipients": [
+      "0x4Fc59D4bb0544F6b885220a0dD899d49eD61B075"
+    ],
+    "shares": [
+      100
+    ],
+    "registered_at": "2026-06-17T07:55:46.963418"
+  },
+  "8ae8ecce066f2a75a4f4ad9dbfc7b8714c47ba560a7c620d4240b2be9970a3c0": {
+    "title": "reggae.00001",
+    "artist": "GTZAN",
+    "ipfs_cid": "QmRef0008",
+    "tx_hash": "0x0",
+    "recipients": [
+      "0x4Fc59D4bb0544F6b885220a0dD899d49eD61B075"
+    ],
+    "shares": [
+      100
+    ],
+    "registered_at": "2026-06-17T07:56:04.155998"
+  },
+  "20b4b6d2e6850aaf98f691dbf7ee0bd522d89c234b506ba8adbd88fe82bd62c6": {
+    "title": "rock.00001",
+    "artist": "GTZAN",
+    "ipfs_cid": "QmRef0009",
+    "tx_hash": "0x0",
+    "recipients": [
+      "0x4Fc59D4bb0544F6b885220a0dD899d49eD61B075"
+    ],
+    "shares": [
+      100
+    ],
+    "registered_at": "2026-06-17T07:56:21.718533"
+  },
+  "01b24028e7510226c9619656dc89cbdd100787b2a328345e8b936bade218c6a3": {
+    "title": "BenchRef",
+    "artist": "BenchArtist",
+    "ipfs_cid": "QmZghLzTrLjudL8NjXZ62fDsxqKCbsdEwWe9A8guV3cjuK",
+    "tx_hash": "0xa1aff2591cf9aebc65993cc30c31e22053adbb9f49620fa1662c1d92d460dc03",
+    "recipients": [
+      "0x4Fc59D4bb0544F6b885220a0dD899d49eD61B075"
+    ],
+    "shares": [
+      100
+    ],
+    "registered_at": "2026-06-17T08:17:30.162914"
+  }
+}
